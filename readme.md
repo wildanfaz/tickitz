@@ -2,10 +2,10 @@
 
 ## Screenshots
 
-![App Screenshot](./images/tickitz1)
-![App Screenshot](./images/tickitz2)
-![App Screenshot](./images/tickitz3)
-![App Screenshot](./images/tickitz4)
+![App Screenshot](./images/tickitz1.png)
+![App Screenshot](./images/tickitz1.png)
+![App Screenshot](./images/tickitz1.png)
+![App Screenshot](./images/tickitz4.png)
 
 ## Clone
 
