@@ -1,6 +1,4 @@
-# Backend Golang 2 Week 4
-
-Tickitz App
+# Tickitz App
 
 ## Clone
 
